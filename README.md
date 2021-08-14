@@ -1,5 +1,7 @@
 ### Hi there, I'm Seokyun Ha - aka [BlueHorn07][website] 👋
 
+![](https://komarev.com/ghpvc/?username=BlueHorn07&color=blue)
+
 - POSTECH CSED & MATH Undergraduate Student
 - Cheif Developer of PoApper
 - Data Scientist Intern of Bagelcode
@@ -17,15 +19,6 @@
 
 <br />
 <br />
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://bluehorn07.github.io/)
 
 ---
 
