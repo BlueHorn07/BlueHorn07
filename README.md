@@ -1,4 +1,4 @@
-### Hi there, I'm Seokyun Ha - aka [BlueHorn07][https://bluehorn07.dev/] 👋
+### Hi there, I'm Seokyun Ha - aka [BlueHorn07][website] 👋
 
 - POSTECH CSED & MATH Undergraduate Student
 - Cheif Developer of PoApper
@@ -38,4 +38,7 @@
 ### Contacts
 
 - Email: bluehornblues@gmail.com
-- FaceBook: [하석윤](https://www.facebook.com/profile.php?id=100005615439995)
+- FaceBook: [하석윤][facebook]
+
+[website]: ttps://bluehorn07.dev/
+[facebook]: https://www.facebook.com/profile.php?id=100005615439995
