@@ -31,7 +31,7 @@
 - [Markov Process & Markov Chain](https://bluehorn07.github.io/computer_science/2021/07/03/Markov-process.html)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://bluehorn07.github.io/computer_science/)
 
 ---
 
