@@ -2,10 +2,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlueHorn07%2FBlueHorn07&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- POSTECH CSED & MATH Undergraduate Student
-- Cheif Developer of PoApper
-- Data Scientist Intern of Bagelcode
-- Interested in Data Science, Statistical Models, Deep Learning and BackEnd
+- 👨‍🎓 POSTECH CSED & MATH Undergraduate Student
+- 👨‍💻 Chief Developer @[PoApper](https://club.poapper.com/)
+- 👨‍🚀 Data Scientist Intern @[Bagelcode](https://site.bagelcode.com/)
+- ✨ Interested in Data Science, Statistical Models, Deep Learning and BackEnd
+- ⚡ I love to play Jazz🎺 and play "Hearts Of Iron IV"🎮
+- 🥅 2021 Goals: 알고리즘(CSED331) 정리 👉 [more goals](https://bluehorn07.github.io/2021/01/01/2021-goal.html)
 
 <br />
 
@@ -17,7 +19,6 @@
 - HTML5, CSS, SASS, ReactJS, Redux, Semantic‑ui, Jekyll
 - Git, Docker, Slack
 
-<br />
 <br />
 
 ---
