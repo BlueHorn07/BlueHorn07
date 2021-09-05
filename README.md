@@ -24,11 +24,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning Basics](https://bluehorn07.github.io/computer_science/2021/09/05/Machine-Learning-Basics.html)
+- [MLE vs. MAP](https://bluehorn07.github.io/computer_science/2021/09/05/MLE-vs-MAP.html)
 - [Network Flow](https://bluehorn07.github.io/computer_science/2021/07/16/network-flow.html)
 - [Weighted Interval Scheduling](https://bluehorn07.github.io/computer_science/2021/07/12/weighted-interval-scheduling.html)
 - [Segmented Least Squares](https://bluehorn07.github.io/computer_science/2021/07/12/segmented-least-squares.html)
-- [Independent Sets in Trees](https://bluehorn07.github.io/computer_science/2021/07/10/independent-sets-in-tress.html)
-- [RNN & LSTM](https://bluehorn07.github.io/computer_science/2021/07/05/RNN-and-LSTM.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/computer_science/)
