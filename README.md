@@ -4,7 +4,7 @@
 
 - 👨‍🎓 POSTECH CSED & MATH Undergraduate Student
 - 👨‍💻 Chief Developer @[PoApper](https://club.poapper.com/)
-- 👨‍🚀 Data Scientist Intern @[Bagelcode](https://site.bagelcode.com/)
+- 👨‍🚀 Data Scientist @[Bagelcode](https://site.bagelcode.com/)
 - ✨ Interested in Data Science, Statistical Models, Deep Learning and BackEnd
 - ⚡ I love to play Jazz🎺 and play "Hearts Of Iron IV"🎮
 - 🥅 2021 Goals: Algorithm(CSED331) 정리 👉 [more goals](https://bluehorn07.github.io/2021/01/01/2021-goal.html)
