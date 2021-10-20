@@ -24,11 +24,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quick Selection](https://bluehorn07.github.io/computer_science/2021/10/21/quick-selection.html)
 - [Matrix Multiplication: Strassen Algorithm](https://bluehorn07.github.io/computer_science/2021/10/19/matrix-multiplication-strassen-algorithm.html)
 - [Huffman Encoding](https://bluehorn07.github.io/computer_science/2021/10/08/Huffman-encoding.html)
 - [Bipartite Matching](https://bluehorn07.github.io/computer_science/2021/10/04/bipartite-matching.html)
 - [Ford-Fulkerson Algorithm & Edmons-Karp Algorithm](https://bluehorn07.github.io/computer_science/2021/10/03/ford-fulkerson-algorithm-and-edmons-karp-algorithm.html)
-- [Skyline Problem](https://bluehorn07.github.io/computer_science/2021/09/25/skyline-problem.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/computer_science/)
