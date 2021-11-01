@@ -24,11 +24,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Linear Programming](https://bluehorn07.github.io/computer_science/2021/10/30/linear-programming.html)
 - [Clustering of Maximum Spacing](https://bluehorn07.github.io/computer_science/2021/10/29/clustering-of-maximum-spacing.html)
 - [Disjoint Set & Path Compression](https://bluehorn07.github.io/computer_science/2021/10/26/disjoint-set-and-path-compression.html)
 - [Closest pair of points](https://bluehorn07.github.io/computer_science/2021/10/22/closest-pair-of-points.html)
 - [Quick Selection](https://bluehorn07.github.io/computer_science/2021/10/21/quick-selection.html)
-- [Matrix Multiplication: Strassen Algorithm](https://bluehorn07.github.io/computer_science/2021/10/19/matrix-multiplication-strassen-algorithm.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/computer_science/)
