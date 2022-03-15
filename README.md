@@ -18,7 +18,8 @@
 - Express, NestJS, MySQL, TypeORM, Jest
 - PyTorch, TensorFlow, R, Pandas
 - HTML5, CSS, SASS, ReactJS, Redux, Semantic‑ui, Jekyll
-- Git, Docker, Slack
+- AWS, Docker, Kubernetes
+- GitHub, GitLab, Slack, Jira, Notion
 
 ---
 
