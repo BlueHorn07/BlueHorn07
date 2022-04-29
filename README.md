@@ -26,11 +26,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Euler Path Problem](https://bluehorn07.github.io/computer_science/2022/03/11/euler-path-problem.html)
 - [P and NP](https://bluehorn07.github.io/computer_science/2022/01/14/P-and-NP.html)
 - [Simplex Method](https://bluehorn07.github.io/computer_science/2021/11/16/simplex-method.html)
 - [쿼드 트리 뒤집기](https://bluehorn07.github.io/computer_science/2021/11/10/quad-tree.html)
 - [Problem Solving](https://bluehorn07.github.io/computer_science/2021/11/01/problem-solving.html)
-- [Linear Programming](https://bluehorn07.github.io/computer_science/2021/10/30/linear-programming.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/computer_science/)
