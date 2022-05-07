@@ -27,10 +27,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bitmask Technique](https://bluehorn07.github.io/computer_science/2022/04/29/bitmask-technique.html)
+- [Hamilton Cycle Problem](https://bluehorn07.github.io/computer_science/2022/03/12/hamilton-cycle-problem.html)
 - [Euler Path Problem](https://bluehorn07.github.io/computer_science/2022/03/11/euler-path-problem.html)
 - [P and NP](https://bluehorn07.github.io/computer_science/2022/01/14/P-and-NP.html)
 - [Simplex Method](https://bluehorn07.github.io/computer_science/2021/11/16/simplex-method.html)
-- [쿼드 트리 뒤집기](https://bluehorn07.github.io/computer_science/2021/11/10/quad-tree.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/computer_science/)
