@@ -26,11 +26,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Longest Path, Subset Sum](https://bluehorn07.github.io/computer_science/2022/05/08/longest-path-and-subset-sum.html)
 - [Independent Set, Vertex Cover, and Clique](https://bluehorn07.github.io/computer_science/2022/05/08/independent-set-and-vertex-cover-and-clique.html)
 - [Satisfiability&lpar;SAT&rpar;](https://bluehorn07.github.io/computer_science/2022/05/07/satisfiability.html)
 - [Balanced Cut](https://bluehorn07.github.io/computer_science/2022/05/07/balanced-cut.html)
 - [3D Matching](https://bluehorn07.github.io/computer_science/2022/05/07/3D-matching.html)
-- [Bitmask Technique](https://bluehorn07.github.io/computer_science/2022/04/29/bitmask-technique.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/computer_science/)
