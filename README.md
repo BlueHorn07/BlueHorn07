@@ -8,7 +8,7 @@
 - 🐱‍👤 Alternative military service as skilled industry personnel @[Bagelcode](https://site.bagelcode.com/) (2021.11 ~ 2024.09)
 - ✨ Interested in Data Science, Statistical Models, Deep Learning and BackEnd
 - ⚡ I love to play Jazz🎺 and play "[Hearts Of Iron IV](https://www.heartsofiron4.com/en)"🎮
-- 🥅 2022 Goals: Algorithm(CSED331) 정리 👉 [more goals](https://bluehorn07.github.io/2022/01/01/2022-goal.html)
+- 🥅 2022 Goals: Handbook for "Algorithm(CSED331)" 👉 [more goals](https://bluehorn07.github.io/2022/01/01/2022-goal.html)
 
 <br />
 
@@ -47,6 +47,9 @@
 
 - Email: bluehornblues@gmail.com
 - Facebook: [하석윤][facebook]
+- Instagram: [hsy_bluehorn07][instagram]
 
-[website]: ttps://bluehorn07.dev/
+[website]: https://bluehorn07.dev/
 [facebook]: https://www.facebook.com/profile.php?id=100005615439995
+[instagram]: https://www.instagram.com/hsy_bluehorn07/
+
