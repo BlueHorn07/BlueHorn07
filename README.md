@@ -26,7 +26,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Reduction &lpar;4&rpar;](https://bluehorn07.github.io/computer_science/2022/05/14/reduction-4.html)
+- [Reduction &lpar;4&rpar;: Circuit-SAT and Cook-Levin Theorem](https://bluehorn07.github.io/computer_science/2022/05/14/reduction-4.html)
 - [Reduction &lpar;3&rpar;](https://bluehorn07.github.io/computer_science/2022/05/13/reduction-3.html)
 - [Reduction &lpar;2&rpar;](https://bluehorn07.github.io/computer_science/2022/05/12/reduction-2.html)
 - [NP-hard and NP-complete](https://bluehorn07.github.io/computer_science/2022/05/10/NP-complete-and-NP-hard.html)
