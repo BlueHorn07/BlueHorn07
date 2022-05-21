@@ -26,11 +26,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Local Search](https://bluehorn07.github.io/computer_science/2022/05/20/local-search.html)
 - [Branch and Bound](https://bluehorn07.github.io/computer_science/2022/05/20/branch-and-bound.html)
 - [Backtracking](https://bluehorn07.github.io/computer_science/2022/05/19/bacaktracking.html)
 - [Coping with NP-hardness](https://bluehorn07.github.io/computer_science/2022/05/18/coping-with-np-hardness.html)
 - [Reduction &lpar;4&rpar;: Circuit-SAT and Cook-Levin Theorem](https://bluehorn07.github.io/computer_science/2022/05/14/reduction-4.html)
-- [Reduction &lpar;3&rpar;](https://bluehorn07.github.io/computer_science/2022/05/13/reduction-3.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/computer_science/)
