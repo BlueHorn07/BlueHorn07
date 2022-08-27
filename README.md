@@ -26,11 +26,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [PageRank Algorithm](https://bluehorn07.github.io/computer_science/2022/08/10/page-rank.html)
-- [Segment Tree](https://bluehorn07.github.io/computer_science/2022/07/17/segment-tree.html)
-- [Algorithm 수업과 나를 돌아보며](https://bluehorn07.github.io/computer_science/2022/05/21/end-of-algorithm-lecture.html)
-- [Local Search](https://bluehorn07.github.io/computer_science/2022/05/20/local-search.html)
-- [Branch and Bound](https://bluehorn07.github.io/computer_science/2022/05/20/branch-and-bound.html)
+- [PageRank Algorithm](https://bluehorn07.github.io/2022/08/10/page-rank.html)
+- [Segment Tree](https://bluehorn07.github.io/2022/07/17/segment-tree.html)
+- [Algorithm 수업과 나를 돌아보며](https://bluehorn07.github.io/2022/05/21/end-of-algorithm-lecture.html)
+- [Branch and Bound](https://bluehorn07.github.io/2022/05/20/branch-and-bound.html)
+- [Local Search](https://bluehorn07.github.io/2022/05/20/local-search.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/computer_science/)
