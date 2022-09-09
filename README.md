@@ -27,10 +27,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Partial Correlation](https://bluehorn07.github.io/2022/09/07/partial-correlation.html)
+- [Basic Statistical Concepts](https://bluehorn07.github.io/2022/09/06/basic-statistical-concepts.html)
+- [Time Series Analysis](https://bluehorn07.github.io/2022/09/05/time-series-analysis.html)
+- [Set Theory](https://bluehorn07.github.io/2022/09/01/set-theory.html)
 - [2022 KU 해커톤 회고](https://bluehorn07.github.io/2022/08/21/2022-KU-hackathon.html)
-- [PageRank Algorithm](https://bluehorn07.github.io/2022/08/10/page-rank.html)
-- [Segment Tree](https://bluehorn07.github.io/2022/07/17/segment-tree.html)
-- [Algorithm 수업과 나를 돌아보며](https://bluehorn07.github.io/2022/05/21/end-of-algorithm-lecture.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/computer_science/)
