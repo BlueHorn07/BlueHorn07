@@ -26,11 +26,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Differencing](https://bluehorn07.github.io/2022/09/10/differencing.html)
 - [Stationarity](https://bluehorn07.github.io/2022/09/09/stationarity.html)
 - [Auto-Correlation: ACF &amp;amp; PACF](https://bluehorn07.github.io/2022/09/08/auto-correlation.html)
 - [Partial Correlation](https://bluehorn07.github.io/2022/09/07/partial-correlation.html)
 - [Basic Statistical Concepts](https://bluehorn07.github.io/2022/09/06/basic-statistical-concepts.html)
-- [Time Series Component: Trend, Seasonality, Cycle](https://bluehorn07.github.io/2022/09/06/time-series-components.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/computer_science/)
