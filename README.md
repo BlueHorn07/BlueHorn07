@@ -26,11 +26,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Auto-Regressive Model](https://bluehorn07.github.io/2022/09/11/auto-regressive-model.html)
+- [Moving-Average Model](https://bluehorn07.github.io/2022/09/11/moving-average-model.html)
 - [Differencing](https://bluehorn07.github.io/2022/09/10/differencing.html)
 - [Stationarity](https://bluehorn07.github.io/2022/09/09/stationarity.html)
 - [Auto-Correlation: ACF &amp;amp; PACF](https://bluehorn07.github.io/2022/09/08/auto-correlation.html)
-- [Partial Correlation](https://bluehorn07.github.io/2022/09/07/partial-correlation.html)
-- [Basic Statistical Concepts](https://bluehorn07.github.io/2022/09/06/basic-statistical-concepts.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/computer_science/)
