@@ -47,7 +47,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the degree of freedom in statistics always subtracted by 1?](https://bluehorn07.github.io/2022/10/09/why-the-degree-of-freedom-in-statistics-always-subtracted-by-1.html)
+- [Degree of Freedom in Statistics](https://bluehorn07.github.io/2022/10/09/degree-of-freedom-in-statistics.html)
 - [Backshift Operator](https://bluehorn07.github.io/2022/09/18/backshift-operator.html)
 - [ARMA &amp;amp; ARIMA Model](https://bluehorn07.github.io/2022/09/12/arma-and-arima-model.html)
 - [SARIMA &amp;amp; SARIMAX Model](https://bluehorn07.github.io/2022/09/12/sarima-and-sarimax-model.html)
