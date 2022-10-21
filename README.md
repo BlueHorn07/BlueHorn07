@@ -54,7 +54,7 @@
 - [Auto-Regressive Model](https://bluehorn07.github.io/2022/09/11/auto-regressive-model.html)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://bluehorn07.github.io/computer_science/)
+➡️ [more blog posts...](https://bluehorn07.github.io/)
 
 ---
 
