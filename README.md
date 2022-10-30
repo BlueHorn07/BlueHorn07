@@ -47,11 +47,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Taylor Series &amp;amp; Macluarin Series](https://bluehorn07.github.io/2022/10/29/talyor-series-and-maclaurin-series.html)
 - [Degree of Freedom in Statistics](https://bluehorn07.github.io/2022/10/09/degree-of-freedom-in-statistics.html)
 - [Backshift Operator](https://bluehorn07.github.io/2022/09/18/backshift-operator.html)
 - [ARMA &amp;amp; ARIMA Model](https://bluehorn07.github.io/2022/09/12/arma-and-arima-model.html)
 - [SARIMA &amp;amp; SARIMAX Model](https://bluehorn07.github.io/2022/09/12/sarima-and-sarimax-model.html)
-- [Auto-Regressive Model](https://bluehorn07.github.io/2022/09/11/auto-regressive-model.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
