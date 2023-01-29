@@ -53,8 +53,8 @@
 - [Secret](https://bluehorn07.github.io/2023/01/29/Secret.html)
 - [ConfigMap](https://bluehorn07.github.io/2023/01/28/ConfigMap.html)
 - [kubectl 명령어 핸드북](https://bluehorn07.github.io/2023/01/28/kubectl-command-handbook.html)
+- [전송 계층 보안&lpar;TLS&rpar;](https://bluehorn07.github.io/2023/01/28/transport-layer-security.html)
 - [2023년 목표](https://bluehorn07.github.io/2023/01/01/2023-goal.html)
-- [Negative Binomial Theorem](https://bluehorn07.github.io/2022/10/30/negative-binomial-theorem.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
