@@ -51,10 +51,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Linux IP Commands](https://bluehorn07.github.io/2023/02/05/Linux-IP-commands.html)
+- [Linux Network 1편](https://bluehorn07.github.io/2023/02/05/Linux-Network-1.html)
 - [Persistent Volume &amp;amp; Persistent Volume Claim](https://bluehorn07.github.io/2023/02/03/Persistent-Volume.html)
 - [Pod and Volume](https://bluehorn07.github.io/2023/02/02/Pod-and-Volume.html)
 - [ServiceAccount](https://bluehorn07.github.io/2023/01/31/ServiceAccount.html)
-- [KubeConfig](https://bluehorn07.github.io/2023/01/29/KubeConfig.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
