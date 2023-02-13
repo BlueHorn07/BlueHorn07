@@ -50,11 +50,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Static Pod](https://bluehorn07.github.io/2023/02/13/Static-Pod.html)
 - [Network Devices](https://bluehorn07.github.io/2023/02/12/network-devices.html)
 - [DaemonSet](https://bluehorn07.github.io/2023/02/09/DaemonSet.html)
 - [Linux IP Commands](https://bluehorn07.github.io/2023/02/05/Linux-IP-commands.html)
 - [Linux Network 1편](https://bluehorn07.github.io/2023/02/05/Linux-Network-1.html)
-- [Persistent Volume &amp;amp; Persistent Volume Claim](https://bluehorn07.github.io/2023/02/03/Persistent-Volume.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
