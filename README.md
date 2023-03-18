@@ -50,11 +50,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Amazon Linux 2 개발 셋업](https://bluehorn07.github.io/2023/03/18/Amazon-Linux-setup.html)
 - [Pod Internal Networking](https://bluehorn07.github.io/2023/02/25/Pod-Networking.html)
 - [Certificate Signing Request](https://bluehorn07.github.io/2023/02/14/Certificate-Signing-Request.html)
 - [Static Pod](https://bluehorn07.github.io/2023/02/13/Static-Pod.html)
 - [Network Devices](https://bluehorn07.github.io/2023/02/12/network-devices.html)
-- [DaemonSet](https://bluehorn07.github.io/2023/02/09/DaemonSet.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
