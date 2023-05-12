@@ -1,4 +1,4 @@
-### Hi there, I'm Seokyun Ha - aka [BlueHorn07][website] 👋
+### Hi there, I'm Seokyun Ha - aka [BlueHorn07](website) 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlueHorn07%2FBlueHorn07&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -8,7 +8,7 @@
 - 💂 Alternative military service as skilled industry personnel @[Bagelcode](https://site.bagelcode.com/) (2021.11 ~ 2024.09)
 - ✨ Interested in Data Science, Statistical Models, Deep Learning and BackEnd
 - 💖 I love to play Jazz🎺 and play "[Hearts Of Iron IV](https://www.heartsofiron4.com/en)"🎮
-- 🥅 Current Goal: Terraform IaC 👉 [2023 Goals](https://bluehorn07.github.io/2023/01/01/2023-goal.html)
+- 🥅 Current Goal: ELK Stack 👉 [2023 Goals](https://bluehorn07.github.io/2023/01/01/2023-goal.html)
 
 <br />
 
