@@ -50,11 +50,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Document CRUD](https://bluehorn07.github.io/2023/05/17/ElasticSearch-Document-CRUD.html)
 - [Index CRUD](https://bluehorn07.github.io/2023/05/15/ElasticSearch-Index-CRUD.html)
 - [EKS Cluster Setup 후기](https://bluehorn07.github.io/2023/04/07/eks-cluster-setup-review.html)
 - [AWS Amazon Linux 2 개발 셋업](https://bluehorn07.github.io/2023/03/18/Amazon-Linux-setup.html)
 - [CKA 시험 합격 후기](https://bluehorn07.github.io/2023/02/27/CKA-pass-review.html)
-- [Pod Internal Networking](https://bluehorn07.github.io/2023/02/25/Pod-Networking.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
