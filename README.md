@@ -4,7 +4,7 @@
 
 - 👨‍🎓 POSTECH CSED & MATH Undergraduate Student
 - 👨‍💻 Chief Developer @[PoApper](https://poapper.club/)
-- 👨‍🚀 Data Scientist @[Bagelcode](https://site.bagelcode.com/)
+- 👨‍🚀 Data Engineer @[Bagelcode](https://site.bagelcode.com/)
 - 💂 Alternative military service as skilled industry personnel @[Bagelcode](https://site.bagelcode.com/) (2021.11 ~ 2024.09)
 - ✨ Interested in Data Science, Statistical Models, Deep Learning and BackEnd
 - 💖 I love to play Jazz🎺 and play "[Hearts Of Iron IV](https://www.heartsofiron4.com/en)"🎮
@@ -31,6 +31,7 @@
 ![Apache Spark](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label=)
 ![Apache Airflow](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Airflow&color=017CEE&logo=Apache+Airflow&logoColor=FFFFFF&label=)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Databricks](https://img.shields.io/static/v1?style=for-the-badge&message=Databricks&color=FF3621&logo=Databricks&logoColor=FFFFFF&label=)
 <br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
