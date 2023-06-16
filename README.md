@@ -6,7 +6,7 @@
 - 👨‍💻 Chief Developer @[PoApper](https://poapper.club/)
 - 👨‍🚀 Data Engineer @[Bagelcode](https://bagelcode.com)
 - 💂 Alternative military service as skilled industry personnel @[Bagelcode](https://bagelcode.com) (2021.11 ~ 2024.09)
-- ✨ Interested in Data Science, Statistical Models, Deep Learning and BackEnd
+- ✨ Interested in Kubernetes, Spark, Kafka and their eco-systems.
 - 💖 I love to play Jazz🎺 and play "[Hearts Of Iron IV](https://www.heartsofiron4.com/en)"🎮
 - 🥅 Current Goal: ELK Stack 👉 [2023 Goals](https://bluehorn07.github.io/2023/01/01/2023-goal.html)
 
