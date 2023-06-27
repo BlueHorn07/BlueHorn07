@@ -8,7 +8,7 @@
 - 💂 Alternative military service as skilled industry personnel @[Bagelcode](https://bagelcode.com) (2021.11 ~ 2024.09)
 - ✨ Interested in Kubernetes, Spark, Kafka and their eco-systems.
 - 💖 I love to play Jazz🎺 and play "[Hearts Of Iron IV](https://www.heartsofiron4.com/en)"🎮
-- 🥅 Current Goal: ELK Stack 👉 [2023 Goals](https://bluehorn07.github.io/2023/01/01/2023-goal.html)
+- 🥅 Current Goal: Docker Swarm & IaC Terraform 👉 [2023 Goals](https://bluehorn07.github.io/2023/01/01/2023-goal.html)
 
 <br />
 
@@ -47,6 +47,13 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 </div>
+
+---
+
+### Latest OpenSource Contributing
+
+- [deliveryhero/helm-charts: [stable/aws-s3-proxy]: Support k8s 1.19 Ingress](https://github.com/deliveryhero/helm-charts/pull/481)
+- [acryldata/datahub-helm: feat: Default User Credentials](https://github.com/acryldata/datahub-helm/pull/321)
 
 ---
 
