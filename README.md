@@ -61,11 +61,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Swarmpit 클러스터 장애 회고](https://bluehorn07.github.io/2023/07/08/swarmpit-error-retro/)
-- [Swarmpit 클러스터 구축기](https://bluehorn07.github.io/2023/05/28/swarmpit-cluster-review/)
-- [Lucene Segment](https://bluehorn07.github.io/2023/05/19/Lucene-Segment/)
-- [Document CRUD](https://bluehorn07.github.io/2023/05/17/ElasticSearch-Document-CRUD/)
-- [Index CRUD](https://bluehorn07.github.io/2023/05/15/ElasticSearch-Index-CRUD/)
+- [Swarmpit 클러스터 장애 회고](https://bluehorn07.github.io/2023/07/08/swarmpit-error-retro)
+- [Swarmpit 클러스터 구축기](https://bluehorn07.github.io/2023/05/28/swarmpit-cluster-review)
+- [Lucene Segment](https://bluehorn07.github.io/2023/05/19/Lucene-Segment)
+- [Document CRUD](https://bluehorn07.github.io/2023/05/17/ElasticSearch-Document-CRUD)
+- [Index CRUD](https://bluehorn07.github.io/2023/05/15/ElasticSearch-Index-CRUD)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
