@@ -54,7 +54,7 @@
 
 - [deliveryhero/helm-charts: [stable/aws-s3-proxy]: Support k8s 1.19 Ingress](https://github.com/deliveryhero/helm-charts/pull/481)
 - [acryldata/datahub-helm: feat: Default User Credentials](https://github.com/acryldata/datahub-helm/pull/321)
-- [apache/airflow: DatabricksHook ClusterState](https://github.com/apache/airflow/pull/34071)
+- [apache/airflow: DatabricksHook ClusterState](https://github.com/apache/airflow/pull/34643)
 
 ---
 
