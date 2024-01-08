@@ -62,11 +62,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2024년 목표](https://bluehorn07.github.io/2024/01/01/2024-goal/)
+- [2023 AWS re:invent 신기술 정리](https://bluehorn07.github.io/2023/12/02/2023-aws-reinvent-summary/)
 - [Games on AWS 2023 리뷰](https://bluehorn07.github.io/2023/10/24/review-Games-on-AWS-2023/)
 - [K8s Image Available Exporter](https://bluehorn07.github.io/2023/10/21/k8s-image-availability-exporter/)
 - [Swarmpit 클러스터 장애 회고](https://bluehorn07.github.io/2023/07/08/swarmpit-error-retro/)
-- [Swarmpit 클러스터 구축기](https://bluehorn07.github.io/2023/05/28/swarmpit-cluster-review/)
-- [Lucene Segment](https://bluehorn07.github.io/2023/05/19/Lucene-Segment/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
