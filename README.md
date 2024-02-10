@@ -62,11 +62,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Istio ‘Bookinfo’ 데모](https://bluehorn07.github.io/2024/02/10/istio-book-info-demo/)
 - [Istio ‘helloworld’ 데모](https://bluehorn07.github.io/2024/02/05/istio-helloworld-demo/)
 - [Install Istio and Addons&lpar;Prometheus, Kiali&rpar;](https://bluehorn07.github.io/2024/02/02/install-istio-and-addons/)
 - [2024년 목표](https://bluehorn07.github.io/2024/01/01/2024-goal/)
 - [2023 AWS re:invent 신기술 정리](https://bluehorn07.github.io/2023/12/02/2023-aws-reinvent-summary/)
-- [Games on AWS 2023 리뷰](https://bluehorn07.github.io/2023/10/24/review-Games-on-AWS-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
