@@ -65,11 +65,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Istio: ServiceEntry](https://bluehorn07.github.io/2024/02/14/istio-service-entry/)
+- [Istio: ServiceEntry](https://bluehorn07.github.io/2024/02/15/istio-service-entry/)
+- [Istio: Gateway](https://bluehorn07.github.io/2024/02/14/istio-gateway/)
 - [Istio ‘Bookinfo’ 데모](https://bluehorn07.github.io/2024/02/10/istio-book-info-demo/)
 - [Istio ‘helloworld’ 데모](https://bluehorn07.github.io/2024/02/05/istio-helloworld-demo/)
 - [Install Istio and Addons&lpar;Prometheus, Kiali&rpar;](https://bluehorn07.github.io/2024/02/02/install-istio-and-addons/)
-- [2024년 목표](https://bluehorn07.github.io/2024/01/01/2024-goal/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
