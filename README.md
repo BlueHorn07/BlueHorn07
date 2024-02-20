@@ -65,8 +65,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Istio: ServiceEntry](https://bluehorn07.github.io/2024/02/15/istio-service-entry/)
-- [Istio: Ingress Gateway](https://bluehorn07.github.io/2024/02/14/istio-gateway/)
+- [Istio: Egress Gateway](https://bluehorn07.github.io/2024/02/15/istio-egress-gateway/)
+- [Istio: Ingress Gateway](https://bluehorn07.github.io/2024/02/14/istio-ingress-gateway/)
 - [Istio ‘Bookinfo’ 데모](https://bluehorn07.github.io/2024/02/10/istio-book-info-demo/)
 - [Istio ‘helloworld’ 데모](https://bluehorn07.github.io/2024/02/05/istio-helloworld-demo/)
 - [Install Istio and Addons&lpar;Prometheus, Kiali&rpar;](https://bluehorn07.github.io/2024/02/02/install-istio-and-addons/)
