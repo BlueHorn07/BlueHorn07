@@ -72,7 +72,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Istio Circular Virtual Service](https://bluehorn07.github.io/2024/02/28/istio-circular-virtual-service/)
-- [Istio TLS Network 관련 사전 지식](https://bluehorn07.github.io/2024/02/24/istio-pre-requisites/)
+- [Istio TLS Network 관련 사전 지식](https://bluehorn07.github.io/2024/02/24/istio-pre-requisites-tls-network/)
 - [Istio: Egress Gateway](https://bluehorn07.github.io/2024/02/15/istio-egress-gateway/)
 - [Istio: Ingress Gateway](https://bluehorn07.github.io/2024/02/14/istio-ingress-gateway/)
 - [Istio ‘Bookinfo’ 데모](https://bluehorn07.github.io/2024/02/10/istio-book-info-demo/)
