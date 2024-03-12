@@ -71,7 +71,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Istio의 istiod 꼼꼼히 살펴보기](https://bluehorn07.github.io/2024/03/07/istio-control-plane-detail-examine/)
+- [Istio의 컨트롤 플레인 꼼꼼히 살펴보기](https://bluehorn07.github.io/2024/03/07/istio-control-plane-detail-examine/)
 - [Istio Operator 꼼꼼히 살펴보기](https://bluehorn07.github.io/2024/03/05/istio-operator-detail-examine/)
 - [Istio Security](https://bluehorn07.github.io/2024/03/03/istio-security/)
 - [Istio Circular Virtual Service](https://bluehorn07.github.io/2024/02/28/istio-circular-virtual-service/)
