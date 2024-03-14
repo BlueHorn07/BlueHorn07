@@ -71,11 +71,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Istio의 Authentication &amp;amp; Authorization](https://bluehorn07.github.io/2024/03/14/istio-authentication-and-authorization/)
 - [Istio의 컨트롤 플레인 꼼꼼히 살펴보기](https://bluehorn07.github.io/2024/03/07/istio-control-plane-detail-examine/)
 - [Istio Operator 꼼꼼히 살펴보기](https://bluehorn07.github.io/2024/03/05/istio-operator-detail-examine/)
 - [Istio Security](https://bluehorn07.github.io/2024/03/03/istio-security/)
 - [Istio Circular Virtual Service](https://bluehorn07.github.io/2024/02/28/istio-circular-virtual-service/)
-- [Istio TLS Network 관련 사전 지식](https://bluehorn07.github.io/2024/02/24/istio-pre-requisites-tls-network/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
