@@ -84,7 +84,7 @@
 
 ### Problem Solving
 
-[![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=bluehorn07)](https://www.acmicpc.net/user/bluehorn07)
+[![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=bluehorn07)](https://www.acmicpc.net/user/BlueHorn07)
 
 ---
 
