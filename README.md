@@ -71,11 +71,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Istio Tracing: Jaeger](https://bluehorn07.github.io/2024/03/18/istio-tracing-jaeger/)
 - [Istio Envoy Logging](https://bluehorn07.github.io/2024/03/16/istio-envoy-logging/)
 - [Istio의 Authentication &amp;amp; Authorization](https://bluehorn07.github.io/2024/03/14/istio-authentication-and-authorization/)
 - [Istio의 컨트롤 플레인 꼼꼼히 살펴보기](https://bluehorn07.github.io/2024/03/07/istio-control-plane-detail-examine/)
 - [Istio Operator 꼼꼼히 살펴보기](https://bluehorn07.github.io/2024/03/05/istio-operator-detail-examine/)
-- [Istio Security](https://bluehorn07.github.io/2024/03/03/istio-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
