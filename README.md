@@ -72,10 +72,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Istio Revision and Canary Upgrade](https://bluehorn07.github.io/2024/03/21/istio-revision-and-canary-upgrade/)
+- [Istio Service Registry](https://bluehorn07.github.io/2024/03/21/istio-service-registry/)
 - [Istio Envoy Discovery Service](https://bluehorn07.github.io/2024/03/20/istio-envoy-service-discovery/)
 - [Istio Distributed Tracing with Jaeger](https://bluehorn07.github.io/2024/03/18/istio-distributed-tracing-jaeger/)
 - [Istio Envoy Access Logging](https://bluehorn07.github.io/2024/03/16/istio-envoy-access-logging/)
-- [Istio의 Authentication &amp;amp; Authorization](https://bluehorn07.github.io/2024/03/14/istio-authentication-and-authorization/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
