@@ -72,10 +72,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Istio Circuit Breaking](https://bluehorn07.github.io/2024/03/23/istio-circuit-breaking/)
+- [Istio CRD 중에 지엽적인 나머지 것들 정리](https://bluehorn07.github.io/2024/03/23/istio-crd-others-memo/)
 - [Istio Virtual Machine Architecture](https://bluehorn07.github.io/2024/03/23/istio-virtual-machine-architecture/)
 - [Istio 이것저것 메모들](https://bluehorn07.github.io/2024/03/22/istio-memo-collections/)
 - [Istio Revision and Canary Upgrade](https://bluehorn07.github.io/2024/03/21/istio-revision-and-canary-upgrade/)
-- [Istio Service Registry](https://bluehorn07.github.io/2024/03/21/istio-service-registry/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
