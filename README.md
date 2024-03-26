@@ -8,7 +8,7 @@
 - 💂 Alternative military service as skilled industry personnel @[Bagelcode](https://bagelcode.com) (2021.11 ~ 2024.09)
 - ✨ Interested in Kubernetes, Spark, Kafka and their eco-systems.
 - 💖 I love to play Jazz🎺 and play "[Hearts Of Iron IV](https://www.heartsofiron4.com/en)"🎮
-- 🥅 Current Goal: Istio Certified Associate Exam (See more 👉 [2024 Goals](https://bluehorn07.github.io/2024/01/01/2024-goal.html))
+- 🥅 Current Goal: Prepare Math Graduate Exam (See more 👉 [2024 Goals](https://bluehorn07.github.io/2024/01/01/2024-goal.html))
 
 <br />
 
