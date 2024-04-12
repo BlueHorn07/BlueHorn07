@@ -71,7 +71,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Istio Certificate Associate 시험 후기](https://bluehorn07.github.io/2024/04/10/istio-certificate-associate-exam-review/)
+- [Istio Certificate Associate 시험 후기 ⭐️](https://bluehorn07.github.io/2024/04/10/istio-certificate-associate-exam-review/)
 - [istioctl 디버그 도구들](https://bluehorn07.github.io/2024/03/24/istioctl-debug-tool/)
 - [Istio Circuit Breaking](https://bluehorn07.github.io/2024/03/23/istio-circuit-breaking/)
 - [Istio CRD 중에 지엽적인 나머지 것들 정리](https://bluehorn07.github.io/2024/03/23/istio-crd-others-memo/)
