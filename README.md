@@ -71,11 +71,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Limit and Continuity: Problem Solving](https://bluehorn07.github.io/2024/05/01/limit-and-continuity-problem-solving/)
 - [Istio Certified Associate 시험 후기 ⭐️](https://bluehorn07.github.io/2024/04/10/istio-certificate-associate-exam-review/)
 - [istioctl 디버그 도구들](https://bluehorn07.github.io/2024/03/24/istioctl-debug-tool/)
 - [Istio Circuit Breaking](https://bluehorn07.github.io/2024/03/23/istio-circuit-breaking/)
 - [Istio CRD 중에 지엽적인 나머지 것들 정리](https://bluehorn07.github.io/2024/03/23/istio-crd-others-memo/)
-- [Istio Virtual Machine Architecture](https://bluehorn07.github.io/2024/03/23/istio-virtual-machine-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
