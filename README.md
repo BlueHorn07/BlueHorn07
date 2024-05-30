@@ -71,11 +71,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Techniques of Integrals: Problem Solving](https://bluehorn07.github.io/2024/05/30/techniques-of-integrals-problem-solving/)
 - [Application of Derivatives: Problem Solving](https://bluehorn07.github.io/2024/05/20/application-of-derivatives-problem-solving/)
 - [Derivatives: Problem Solving](https://bluehorn07.github.io/2024/05/05/derivatives-problem-solving/)
 - [Limit and Continuity: Problem Solving](https://bluehorn07.github.io/2024/05/01/limit-and-continuity-problem-solving/)
 - [Istio Certified Associate 시험 후기 ⭐️](https://bluehorn07.github.io/2024/04/10/istio-certificate-associate-exam-review/)
-- [istioctl 디버그 도구들](https://bluehorn07.github.io/2024/03/24/istioctl-debug-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
