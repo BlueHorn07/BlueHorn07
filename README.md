@@ -60,7 +60,7 @@
 - [apache/airflow: DatabricksHook ClusterState](https://github.com/apache/airflow/pull/34643)
 - [datahub-project/datahub: feat(ingest): add ingest --no-progress option](https://github.com/datahub-project/datahub/pull/9300)
 - [apache/airflow: Flower K8s Probe config](https://github.com/apache/airflow/pull/37528)
-- [[FEATURE]: legacy Deny ACL is not handled](https://github.com/databrickslabs/ucx/issues/1803)
+- [databricks/ucx: [FEATURE]: legacy Deny ACL is not handled](https://github.com/databrickslabs/ucx/issues/1803)
 
 ### Document Contributing
 
