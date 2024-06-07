@@ -72,7 +72,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Non-elementry Integrals](https://bluehorn07.github.io/2024/06/05/non-elementry-integrals/)
+- [Non-elementaryIntegrals](https://bluehorn07.github.io/2024/06/05/non-elementary-integrals/)
 - [Techniques of Integrals: Problem Solving](https://bluehorn07.github.io/2024/05/30/techniques-of-integrals-problem-solving/)
 - [Application of Derivatives: Problem Solving](https://bluehorn07.github.io/2024/05/20/application-of-derivatives-problem-solving/)
 - [Derivatives: Problem Solving](https://bluehorn07.github.io/2024/05/05/derivatives-problem-solving/)
