@@ -72,11 +72,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [급수의 극한을 판정하는 법](https://bluehorn07.github.io/2024/06/08/method-of-determining-the-limit-of-a-series/)
+- [수열의 극한을 판정하는 법](https://bluehorn07.github.io/2024/06/07/method-of-determining-the-limit-of-a-sequence/)
 - [Non-elementary Integrals](https://bluehorn07.github.io/2024/06/05/non-elementary-integrals/)
 - [Techniques of Integrals: Problem Solving](https://bluehorn07.github.io/2024/05/30/techniques-of-integrals-problem-solving/)
 - [Application of Derivatives: Problem Solving](https://bluehorn07.github.io/2024/05/20/application-of-derivatives-problem-solving/)
-- [Derivatives: Problem Solving](https://bluehorn07.github.io/2024/05/05/derivatives-problem-solving/)
-- [Limit and Continuity: Problem Solving](https://bluehorn07.github.io/2024/05/01/limit-and-continuity-problem-solving/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
