@@ -72,11 +72,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Parametric Equations: Problem Solving](https://bluehorn07.github.io/2024/06/16/parametric-equations-problem-solving/)
+- [Delta Lake: CRUD](https://bluehorn07.github.io/2024/06/13/delta-lake-crud/)
 - [칸토어 집합](https://bluehorn07.github.io/2024/06/08/cantor-set/)
 - [급수의 극한을 판정하는 법](https://bluehorn07.github.io/2024/06/08/method-of-determining-the-limit-of-a-series/)
 - [교대 급수의 극한을 판정하는 법](https://bluehorn07.github.io/2024/06/08/method-of-determining-the-limit-of-an-alternating-series/)
-- [Sequence and Series: Problem Solving](https://bluehorn07.github.io/2024/06/08/sequence-and-series-problem-solving/)
-- [수열의 극한을 판정하는 법](https://bluehorn07.github.io/2024/06/07/method-of-determining-the-limit-of-a-sequence/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
