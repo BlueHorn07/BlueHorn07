@@ -55,17 +55,18 @@
 
 ### OpenSource Contributing
 
-- [deliveryhero/helm-charts: [stable/aws-s3-proxy]: Support k8s 1.19 Ingress](https://github.com/deliveryhero/helm-charts/pull/481)
-- [acryldata/datahub-helm: feat: Default User Credentials](https://github.com/acryldata/datahub-helm/pull/321)
-- [apache/airflow: DatabricksHook ClusterState](https://github.com/apache/airflow/pull/34643)
-- [datahub-project/datahub: feat(ingest): add ingest --no-progress option](https://github.com/datahub-project/datahub/pull/9300)
-- [apache/airflow: Flower K8s Probe config](https://github.com/apache/airflow/pull/37528)
+- [deliveryhero/helm-charts: [stable/aws-s3-proxy] Sync labels btw pod and deployment](https://github.com/deliveryhero/helm-charts/pull/588)
 - [databricks/ucx: [FEATURE]: legacy Deny ACL is not handled](https://github.com/databrickslabs/ucx/issues/1803)
+- [apache/airflow: Flower K8s Probe config](https://github.com/apache/airflow/pull/37528)
+- [datahub-project/datahub: feat(ingest): add ingest --no-progress option](https://github.com/datahub-project/datahub/pull/9300)
+- [apache/airflow: DatabricksHook ClusterState](https://github.com/apache/airflow/pull/34643)
+- [acryldata/datahub-helm: feat: Default User Credentials](https://github.com/acryldata/datahub-helm/pull/321)
+- [deliveryhero/helm-charts: [stable/aws-s3-proxy]: Support k8s 1.19 Ingress](https://github.com/deliveryhero/helm-charts/pull/481)
 
 ### Document Contributing
 
-- [delta-io/delta-docs: Add missed continuation](https://github.com/delta-io/delta-docs/pull/57)
 - [istio/istio.io: Egress Gateway, istioctl command wrap with dquotes](https://github.com/istio/istio.io/pull/14632)
+- [delta-io/delta-docs: Add missed continuation](https://github.com/delta-io/delta-docs/pull/57)
 
 ---
 
