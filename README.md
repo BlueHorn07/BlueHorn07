@@ -73,10 +73,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Arc Length와 Line Integral](https://bluehorn07.github.io/2024/06/30/arc-lenght-and-line-integral/)
+- [Vector and Space: Problem Solving](https://bluehorn07.github.io/2024/06/30/vectors-and-space-problem-solving/)
 - [Install Knative Serving](https://bluehorn07.github.io/2024/06/22/install-knative-serving/)
 - [Delta Lake Vacuum](https://bluehorn07.github.io/2024/06/18/delta-lake-vacuum/)
 - [Delta Lake Time Travel](https://bluehorn07.github.io/2024/06/16/delta-lake-time-travel/)
-- [Parametric Equations: Problem Solving](https://bluehorn07.github.io/2024/06/16/parametric-equations-problem-solving/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
