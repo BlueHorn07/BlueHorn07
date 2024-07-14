@@ -73,11 +73,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-dimensional Functions: Problem Solving](https://bluehorn07.github.io/2024/07/06/multi-dimensional-functions-problem-solving/)
+- [Lagrange Multiplier](https://bluehorn07.github.io/2024/07/14/lagrange-multiplier/)
+- [Partial Derivatives and Differentiability](https://bluehorn07.github.io/2024/07/06/prtial-derivatives-and-differentiability/)
 - [Arc Length와 Line Integral](https://bluehorn07.github.io/2024/06/30/arc-length-and-line-integral/)
 - [Vector and Space: Problem Solving](https://bluehorn07.github.io/2024/06/30/vectors-and-space-problem-solving/)
 - [Install Knative Serving](https://bluehorn07.github.io/2024/06/22/install-knative-serving/)
-- [Delta Lake Optimize](https://bluehorn07.github.io/2024/06/19/delta-lake-optimize/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
