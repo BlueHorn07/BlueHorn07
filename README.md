@@ -73,7 +73,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Vector Fields](https://bluehorn07.github.io/2024/07/20/vector-fields/)
+- [Vector Fields, and Line Integrals](https://bluehorn07.github.io/2024/07/20/vector-fields-and-line-integrals/)
 - [Multiple Integrals](https://bluehorn07.github.io/2024/07/16/multiple-integrals/)
 - [Lagrange Multiplier](https://bluehorn07.github.io/2024/07/14/lagrange-multiplier/)
 - [Partial Derivatives and Differentiability](https://bluehorn07.github.io/2024/07/06/prtial-derivatives-and-differentiability/)
