@@ -73,11 +73,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Green Theorem](https://bluehorn07.github.io/2024/07/21/green-theorem/)
 - [Vector Fields, and Line Integrals](https://bluehorn07.github.io/2024/07/20/vector-fields-and-line-integrals/)
 - [Multiple Integrals](https://bluehorn07.github.io/2024/07/16/multiple-integrals/)
 - [Lagrange Multiplier](https://bluehorn07.github.io/2024/07/14/lagrange-multiplier/)
 - [Partial Derivatives and Differentiability](https://bluehorn07.github.io/2024/07/06/prtial-derivatives-and-differentiability/)
-- [Arc Length와 Line Integral](https://bluehorn07.github.io/2024/06/30/arc-length-and-line-integral/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
