@@ -74,10 +74,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Stokes theorem](https://bluehorn07.github.io/2024/08/11/stokes-theorem/)
+- [Parametric Surface, and Surface Integral](https://bluehorn07.github.io/2024/08/10/paramteric-surface/)
 - [Divergence and Curl](https://bluehorn07.github.io/2024/07/24/curl-and-divergence/)
 - [Green Theorem](https://bluehorn07.github.io/2024/07/21/green-theorem/)
 - [Vector Fields, and Line Integrals](https://bluehorn07.github.io/2024/07/20/vector-fields-and-line-integrals/)
-- [Multiple Integrals](https://bluehorn07.github.io/2024/07/16/multiple-integrals/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
