@@ -73,11 +73,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [미적분학을 다시 공부하며 든 생각들](https://bluehorn07.github.io/2024/08/15/thoughts-I-had-while-studying-calculus-again/)
 - [Divergence Theorem](https://bluehorn07.github.io/2024/08/14/divergence-theorem/)
 - [Stokes’ Theorem](https://bluehorn07.github.io/2024/08/11/stokes-theorem/)
 - [Parametric Surface, and Surface Integral](https://bluehorn07.github.io/2024/08/10/paramteric-surface/)
 - [Divergence and Curl](https://bluehorn07.github.io/2024/07/24/curl-and-divergence/)
-- [Green Theorem](https://bluehorn07.github.io/2024/07/21/green-theorem/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
