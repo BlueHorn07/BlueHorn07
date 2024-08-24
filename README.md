@@ -74,7 +74,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [💻 로컬 맥북에서 Spark 실행하기 - 1편: Local Mode](https://bluehorn07.github.io/2024/08/18/run-spark-on-local-1/)
-- [💻 로컬 맥북에서 Spark 실행하기 - 2편: Cluster Mode](https://bluehorn07.github.io/2024/08/18/run-spark-on-local-2/)
+- [💻 로컬 맥북에서 Spark 실행하기 - 2편: Client Mode](https://bluehorn07.github.io/2024/08/18/run-spark-on-local-2/)
 - [미적분학을 다시 공부하며 든 생각들](https://bluehorn07.github.io/2024/08/15/thoughts-I-had-while-studying-calculus-again/)
 - [Divergence Theorem](https://bluehorn07.github.io/2024/08/14/divergence-theorem/)
 - [Stokes’ Theorem](https://bluehorn07.github.io/2024/08/11/stokes-theorem/)
