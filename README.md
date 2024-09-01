@@ -73,11 +73,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spark Speculative Execution](https://bluehorn07.github.io/2024/09/01/spark-speculative-execution/)
 - [Spark Adaptive Query Execution](https://bluehorn07.github.io/2024/08/29/spark-adpative-query-execution/)
 - [Jump into Spark Sessions and Contexts](https://bluehorn07.github.io/2024/08/21/jump-into-spark-sessions-and-contexts/)
 - [💻 로컬 맥북에서 Spark 실행하기 - 1편: Local Mode](https://bluehorn07.github.io/2024/08/18/run-spark-on-local-1/)
 - [💻 로컬 맥북에서 Spark 실행하기 - 2편: Client Mode](https://bluehorn07.github.io/2024/08/18/run-spark-on-local-2/)
-- [미적분학을 다시 공부하며 든 생각들](https://bluehorn07.github.io/2024/08/15/thoughts-I-had-while-studying-calculus-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
