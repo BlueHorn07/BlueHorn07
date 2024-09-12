@@ -74,10 +74,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Spark Jobs, Stages and Tasks](https://bluehorn07.github.io/2024/09/02/spark-jobs-and-stages-and-tasks/)
+- [Personal Compute Setting](https://bluehorn07.github.io/2024/09/01/personal-compute-setting/)
 - [Spark Kryo Serializer](https://bluehorn07.github.io/2024/09/01/spark-kryo-serializer/)
 - [Spark Speculative Execution](https://bluehorn07.github.io/2024/09/01/spark-speculative-execution/)
 - [Spark Adaptive Query Execution](https://bluehorn07.github.io/2024/08/29/spark-adpative-query-execution/)
-- [Jump into Spark Sessions and Contexts](https://bluehorn07.github.io/2024/08/21/jump-into-spark-sessions-and-contexts/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
