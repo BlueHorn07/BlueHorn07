@@ -73,11 +73,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vibration of water in a tube](https://bluehorn07.github.io/2024/09/23/vibrating-u-shape-tube/)
 - [Homogeneous Linear ODE](https://bluehorn07.github.io/2024/09/11/homogeneous-linear-ODE/)
 - [Exact Differential Equation](https://bluehorn07.github.io/2024/09/10/exact-differential-equation/)
 - [Spark Jobs, Stages and Tasks](https://bluehorn07.github.io/2024/09/02/spark-jobs-and-stages-and-tasks/)
 - [Personal Compute Setting](https://bluehorn07.github.io/2024/09/01/personal-compute-setting/)
-- [Spark Kryo Serializer](https://bluehorn07.github.io/2024/09/01/spark-kryo-serializer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
