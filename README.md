@@ -73,11 +73,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wronskian](https://bluehorn07.github.io/2024/10/09/wronskian/)
 - [2nd order Non-Homogeneous Linear ODE](https://bluehorn07.github.io/2024/10/01/2nd-order-non-homogeneous-linear-ode/)
 - [2nd order Homogeneous Linear ODE](https://bluehorn07.github.io/2024/09/30/2nd-order-homogeneous-lienar-ode/)
 - [Logistic Population Model](https://bluehorn07.github.io/2024/09/24/logistic-population-model/)
 - [Vibration of water in a tube](https://bluehorn07.github.io/2024/09/23/vibrating-u-shape-tube/)
-- [Bernoulli Differential Equations](https://bluehorn07.github.io/2024/09/12/bernoulli-differential-equations/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
