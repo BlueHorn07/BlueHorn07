@@ -73,11 +73,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello, pthread!](https://bluehorn07.github.io/2024/10/20/hello-pthread/)
 - [Unix and Linux](https://bluehorn07.github.io/2024/10/19/unix-and-linux/)
 - [Jordan Block Case on 1st Order Linear ODE](https://bluehorn07.github.io/2024/10/16/jordan-block-case/)
 - [Zero Eigen Value on 1st Order Linear ODE](https://bluehorn07.github.io/2024/10/15/zero-eigen-value-case/)
 - [Wronskian](https://bluehorn07.github.io/2024/10/09/wronskian/)
-- [2nd order Non-Homogeneous Linear ODE](https://bluehorn07.github.io/2024/10/01/2nd-order-non-homogeneous-linear-ode/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
