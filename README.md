@@ -73,7 +73,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [중근이 존재하는 2차 미분방정식과 연립 미분방정식에 대한 고찰](https://bluehorn07.github.io/2024/10/27/insights-for-2nd-order-ode-with-repeated-roots-and-linear-system/)
+- [Insights for Solving 2nd Order ODE System with Repeated Roots](https://bluehorn07.github.io/2024/10/27/insights-for-2nd-order-ode-with-repeated-roots-and-linear-system/)
 - [Generalized Eigen Values](https://bluehorn07.github.io/2024/10/26/generalized-eigen-values/)
 - [Stack Frame](https://bluehorn07.github.io/2024/10/23/stack-frame/)
 - [Hello, pthread!](https://bluehorn07.github.io/2024/10/20/hello-pthread/)
