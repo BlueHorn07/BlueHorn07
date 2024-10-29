@@ -77,7 +77,7 @@
 - [Generalized Eigen Values](https://bluehorn07.github.io/2024/10/26/generalized-eigen-values/)
 - [Stack Frame](https://bluehorn07.github.io/2024/10/23/stack-frame/)
 - [Hello, pthread!](https://bluehorn07.github.io/2024/10/20/hello-pthread/)
-- [Unix and Linux](https://bluehorn07.github.io/2024/10/19/unix-and-linux/)
+- [Introduction to Makefile](https://bluehorn07.github.io/2024/10/19/intro-to-makefile/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
