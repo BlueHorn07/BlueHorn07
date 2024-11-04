@@ -68,6 +68,10 @@
 - [istio/istio.io: Egress Gateway, istioctl command wrap with dquotes](https://github.com/istio/istio.io/pull/14632)
 - [delta-io/delta-docs: Add missed continuation](https://github.com/delta-io/delta-docs/pull/57)
 
+### Issue Reporting
+
+- [grafana/grafana-image-renderer: v3.11.4 : it has been failing to build images with an HTTP 500 error](https://github.com/grafana/grafana-image-renderer/issues/565#issuecomment-2454031885)
+
 ---
 
 ### 📕 Latest Blog Posts
