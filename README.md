@@ -77,11 +77,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lipschitz Constant](https://bluehorn07.github.io/2024/11/14/Lipschitz-constant/)
+- [Picard Iteration](https://bluehorn07.github.io/2024/11/14/Picard-iteration/)
 - [Harmonic Oscillation](https://bluehorn07.github.io/2024/11/12/harmonic-oscillation/)
+- [Duhamel’s Theorem](https://bluehorn07.github.io/2024/11/12/duhamels-theorem/)
 - [Pintos P2: Preliminary](https://bluehorn07.github.io/2024/11/02/pintos-p2-preliminary/)
-- [Dense Set](https://bluehorn07.github.io/2024/10/30/dense-set/)
-- [Insights for Solving 2nd Order ODE System with Repeated Roots](https://bluehorn07.github.io/2024/10/27/insights-for-2nd-order-ode-with-repeated-roots-and-linear-system/)
-- [Generalized Eigen Values](https://bluehorn07.github.io/2024/10/26/generalized-eigen-values/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
