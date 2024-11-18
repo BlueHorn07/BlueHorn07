@@ -77,11 +77,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello, Avro!](https://bluehorn07.github.io/2024/11/15/hello-avro/)
+- [Gronwall’s Inequality](https://bluehorn07.github.io/2024/11/14/Gronwall-inequality/)
 - [Lipschitz Constant](https://bluehorn07.github.io/2024/11/14/Lipschitz-constant/)
 - [Picard Iteration](https://bluehorn07.github.io/2024/11/14/Picard-iteration/)
 - [Harmonic Oscillation](https://bluehorn07.github.io/2024/11/12/harmonic-oscillation/)
-- [Duhamel’s Theorem](https://bluehorn07.github.io/2024/11/12/duhamels-theorem/)
-- [Pintos P2: Preliminary](https://bluehorn07.github.io/2024/11/02/pintos-p2-preliminary/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
