@@ -78,10 +78,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Banach Space](https://bluehorn07.github.io/2024/11/19/Banach-space/)
+- [The Existence and Uniqueness Theorem](https://bluehorn07.github.io/2024/11/16/the-existence-and-uniqueness-theorem/)
 - [Hello, Avro!](https://bluehorn07.github.io/2024/11/15/hello-avro/)
 - [Gronwall’s Inequality](https://bluehorn07.github.io/2024/11/14/Gronwall-inequality/)
 - [Lipschitz Constant](https://bluehorn07.github.io/2024/11/14/Lipschitz-constant/)
-- [Picard Iteration](https://bluehorn07.github.io/2024/11/14/Picard-iteration/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
