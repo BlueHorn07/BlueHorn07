@@ -77,11 +77,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Existence Theorem](https://bluehorn07.github.io/2024/11/26/the-existence-theorem/)
 - [Banach Space](https://bluehorn07.github.io/2024/11/19/Banach-space/)
 - [Some Preliminary for The Existence and Uniqueness Theorem](https://bluehorn07.github.io/2024/11/16/some-preliminary-the-existence-and-uniqueness-theorem/)
 - [Hello, Avro!](https://bluehorn07.github.io/2024/11/15/hello-avro/)
 - [Gronwall’s Inequality](https://bluehorn07.github.io/2024/11/14/Gronwall-inequality/)
-- [Lipschitz Constant](https://bluehorn07.github.io/2024/11/14/Lipschitz-constant/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
