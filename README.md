@@ -77,11 +77,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saddle-Node Bifurcation](https://bluehorn07.github.io/2024/12/14/saddle-node-bifurcation/)
+- [Stability](https://bluehorn07.github.io/2024/12/14/stability/)
 - [The Stable Curve Theorem](https://bluehorn07.github.io/2024/12/14/the-stable-curve-theorem/)
 - [System of ODEs](https://bluehorn07.github.io/2024/12/12/system-of-ODEs/)
 - [Hello, Python Producers!](https://bluehorn07.github.io/2024/12/10/hello-python-producers/)
-- [The Existence Theorem](https://bluehorn07.github.io/2024/11/26/the-existence-theorem/)
-- [Banach Space](https://bluehorn07.github.io/2024/11/19/Banach-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
