@@ -77,11 +77,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [운영체제 이것저것 메모들 &lpar;final&rpar;](https://bluehorn07.github.io/2024/12/16/operating-system-memo-for-final/)
+- [[OS] Cache](https://bluehorn07.github.io/2024/12/17/cache/)
+- [[OS] Virtual Memory](https://bluehorn07.github.io/2024/12/16/virtual-memory/)
 - [Saddle-Node Bifurcation](https://bluehorn07.github.io/2024/12/14/saddle-node-bifurcation/)
 - [Stability](https://bluehorn07.github.io/2024/12/14/stability/)
 - [The Stable Curve Theorem](https://bluehorn07.github.io/2024/12/14/the-stable-curve-theorem/)
-- [System of ODEs](https://bluehorn07.github.io/2024/12/12/system-of-ODEs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
