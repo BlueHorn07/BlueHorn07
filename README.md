@@ -78,10 +78,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [[OS] Files and Directory](https://bluehorn07.github.io/2024/12/18/files-and-directory/)
+- [Kafka Connector on k8s - Distributed Mode](https://bluehorn07.github.io/2024/12/18/kafka-connector-distributed-mode/)
 - [[OS] Cache](https://bluehorn07.github.io/2024/12/17/cache/)
 - [Kafka Connector on k8s - Standalone Mode](https://bluehorn07.github.io/2024/12/17/kafka-connector-standalone-mode/)
 - [[OS] Virtual Memory](https://bluehorn07.github.io/2024/12/16/virtual-memory/)
-- [Saddle-Node Bifurcation](https://bluehorn07.github.io/2024/12/14/saddle-node-bifurcation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
