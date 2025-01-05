@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Kafka on Kubernetes ☸](https://bluehorn07.github.io/2025/01/05/deploy-kafka-on-k8s/)
 - [2025년 목표](https://bluehorn07.github.io/2025/01/01/2025-goal/)
 - [Hello, Java!](https://bluehorn07.github.io/2024/12/19/hello-java/)
 - [[OS] Files and Directory](https://bluehorn07.github.io/2024/12/18/files-and-directory/)
 - [Kafka Connector on k8s - Distributed Mode](https://bluehorn07.github.io/2024/12/18/kafka-connector-distributed-mode/)
-- [[OS] Cache](https://bluehorn07.github.io/2024/12/17/cache/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
