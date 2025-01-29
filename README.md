@@ -79,10 +79,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Deploy Kafka KRaft Mode](https://bluehorn07.github.io/2025/01/27/deploy-kafka-kraft-mode/)
+- [Coordinator of Consumer Group](https://bluehorn07.github.io/2025/01/27/kafka-group-coordinator/)
 - [Kafka Study Memo](https://bluehorn07.github.io/2025/01/25/kafka-study-memo/)
 - [Kafka Shell: Console Produce/Consume](https://bluehorn07.github.io/2025/01/12/kafka-shell-console-produce-and-consume/)
 - [Kafka Shell Script 둘러보기](https://bluehorn07.github.io/2025/01/12/kafka-shell-scripts/)
-- [Kafka Shell: `kafka-topics.sh`](https://bluehorn07.github.io/2025/01/11/kafka-shell-kafka-topics-sh/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
