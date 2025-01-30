@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Partition Assignors of Consumer Group](https://bluehorn07.github.io/2025/01/29/kafka-consumer-group-partition-assignor/)
 - [Deploy Kafka KRaft Mode](https://bluehorn07.github.io/2025/01/27/deploy-kafka-kraft-mode/)
 - [Coordinator of Consumer Group](https://bluehorn07.github.io/2025/01/27/kafka-group-coordinator/)
 - [Kafka Study Memo](https://bluehorn07.github.io/2025/01/25/kafka-study-memo/)
 - [Kafka Shell: Console Produce/Consume](https://bluehorn07.github.io/2025/01/12/kafka-shell-console-produce-and-consume/)
-- [Kafka Shell Script 둘러보기](https://bluehorn07.github.io/2025/01/12/kafka-shell-scripts/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
