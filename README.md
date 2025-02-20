@@ -82,7 +82,7 @@
 - [Partition Assignors of Consumer Group](https://bluehorn07.github.io/2025/01/29/kafka-consumer-group-partition-assignor/)
 - [Deploy Kafka KRaft Mode](https://bluehorn07.github.io/2025/01/27/deploy-kafka-kraft-mode/)
 - [Coordinator of Consumer Group](https://bluehorn07.github.io/2025/01/27/kafka-group-coordinator/)
-- [Kafka Study Memo](https://bluehorn07.github.io/2025/01/25/kafka-study-memo/)
+- [Kafka 공부하면서 이것저것 메모](https://bluehorn07.github.io/2025/01/25/kafka-study-memo/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
