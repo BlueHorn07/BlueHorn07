@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kafka `listeners` vs. `advertised.listeners`](https://bluehorn07.github.io/2025/02/20/kafka-listeners-and-advertised-listeners/)
 - [Deploy Kafka Cluster using Strimzi](https://bluehorn07.github.io/2025/02/03/deploy-kafka-using-strimzi/)
 - [Partition Assignors of Consumer Group](https://bluehorn07.github.io/2025/01/29/kafka-consumer-group-partition-assignor/)
 - [Deploy Kafka KRaft Mode](https://bluehorn07.github.io/2025/01/27/deploy-kafka-kraft-mode/)
 - [Coordinator of Consumer Group](https://bluehorn07.github.io/2025/01/27/kafka-group-coordinator/)
-- [Kafka 공부하면서 이것저것 메모](https://bluehorn07.github.io/2025/01/25/kafka-study-memo/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
