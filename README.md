@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Preference](https://bluehorn07.github.io/2025/03/05/preferences/)
 - [Bonferroni’s Inequality](https://bluehorn07.github.io/2025/03/02/Bonferroni-inequality/)
 - [Kafka 시간 기반으로 동작하는 Config 모음](https://bluehorn07.github.io/2025/02/21/kafka-time-based-configurations/)
 - [Kafka `listeners` vs. `advertised.listeners`](https://bluehorn07.github.io/2025/02/20/kafka-listeners-and-advertised-listeners/)
 - [Deploy Kafka Cluster using Strimzi](https://bluehorn07.github.io/2025/02/03/deploy-kafka-using-strimzi/)
-- [Partition Assignors of Consumer Group](https://bluehorn07.github.io/2025/01/29/kafka-consumer-group-partition-assignor/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
