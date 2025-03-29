@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lagrange Interpolation](https://bluehorn07.github.io/2025/03/19/lagrange-interpolation/)
 - [Lotteries](https://bluehorn07.github.io/2025/03/19/lotteries/)
+- [Newton’s Method](https://bluehorn07.github.io/2025/03/17/newton-method/)
 - [Property α](https://bluehorn07.github.io/2025/03/17/property-alpha/)
-- [Choice](https://bluehorn07.github.io/2025/03/12/choice/)
-- [Knative Components](https://bluehorn07.github.io/2025/03/10/knative-components/)
-- [Utility Function](https://bluehorn07.github.io/2025/03/10/utility-function/)
+- [Bisection Method](https://bluehorn07.github.io/2025/03/12/bisection-method/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
