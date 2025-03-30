@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Newton’s Divided Differences](https://bluehorn07.github.io/2025/03/29/newton-divided-differences/)
+- [Interpolation for Uniformly Spaced Nodes, Runge Phenomenon](https://bluehorn07.github.io/2025/03/30/interpolation-error-for-uniformly-spaced-nodes/)
+- [Interpolation Error](https://bluehorn07.github.io/2025/03/29/interpolation-error/)
+- [Newton’s Divided Differences](https://bluehorn07.github.io/2025/03/27/newton-divided-differences/)
 - [Lagrange Interpolation](https://bluehorn07.github.io/2025/03/19/lagrange-interpolation/)
 - [Lotteries](https://bluehorn07.github.io/2025/03/19/lotteries/)
-- [Secant Method](https://bluehorn07.github.io/2025/03/18/secant-method/)
-- [Newton’s Method](https://bluehorn07.github.io/2025/03/17/newton-method/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
