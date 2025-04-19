@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bundle Preference: Convexity](https://bluehorn07.github.io/2025/04/14/bundle-preference-convexity/)
+- [Bundle Preference: Differentiability](https://bluehorn07.github.io/2025/04/14/bundle-preference-differentiability/)
+- [Bundle Preference](https://bluehorn07.github.io/2025/04/13/bundle-preference/)
 - [Bundle of Goods](https://bluehorn07.github.io/2025/04/12/bundles-of-goods/)
-- [Preference of Bundle Preference](https://bluehorn07.github.io/2025/04/12/properties-of-bundle-preference/)
 - [Expected Utility](https://bluehorn07.github.io/2025/04/10/expected-utility/)
-- [Cubic Spline](https://bluehorn07.github.io/2025/04/02/spline-method/)
-- [Hermite Interpolation](https://bluehorn07.github.io/2025/03/31/hermite-interpolation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
