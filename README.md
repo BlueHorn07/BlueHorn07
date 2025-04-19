@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bundle of Goods](https://bluehorn07.github.io/2025/04/12/bundles-of-goods/)
+- [Preference of Bundle Preference](https://bluehorn07.github.io/2025/04/12/properties-of-bundle-preference/)
+- [Expected Utility](https://bluehorn07.github.io/2025/04/10/expected-utility/)
 - [Cubic Spline](https://bluehorn07.github.io/2025/04/02/spline-method/)
 - [Hermite Interpolation](https://bluehorn07.github.io/2025/03/31/hermite-interpolation/)
-- [Interpolation for Uniformly Spaced Nodes, Runge Phenomenon](https://bluehorn07.github.io/2025/03/30/interpolation-error-for-uniformly-spaced-nodes/)
-- [Interpolation Error](https://bluehorn07.github.io/2025/03/29/interpolation-error/)
-- [Newton’s Divided Differences](https://bluehorn07.github.io/2025/03/27/newton-divided-differences/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
