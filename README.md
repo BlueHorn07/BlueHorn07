@@ -81,8 +81,8 @@
 - [Numerial Integration](https://bluehorn07.github.io/2025/05/04/numerical-integration/)
 - [Numerical Differentiation](https://bluehorn07.github.io/2025/04/28/numerical-differentiation/)
 - [Interpolation Differentiation](https://bluehorn07.github.io/2025/04/27/interpolation-differentiation/)
+- [Bundle Preference: Continuity](https://bluehorn07.github.io/2025/04/14/bundle-preference-continuity/)
 - [Bundle Preference: Convexity](https://bluehorn07.github.io/2025/04/14/bundle-preference-convexity/)
-- [Bundle Preference: Differentiability](https://bluehorn07.github.io/2025/04/14/bundle-preference-differentiability/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
