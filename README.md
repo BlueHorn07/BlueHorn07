@@ -81,8 +81,8 @@
 - [Numerial Integration](https://bluehorn07.github.io/2025/05/04/numerical-integration/)
 - [Numerical Differentiation](https://bluehorn07.github.io/2025/04/28/numerical-differentiation/)
 - [Interpolation Differentiation](https://bluehorn07.github.io/2025/04/27/interpolation-differentiation/)
+- [Budget Sets &amp;amp; Demand Functions &amp;amp; Consumer’s Problem](https://bluehorn07.github.io/2025/04/22/consumer-problem/)
 - [Bundle Preference: Continuity](https://bluehorn07.github.io/2025/04/14/bundle-preference-continuity/)
-- [Bundle Preference: Convexity](https://bluehorn07.github.io/2025/04/14/bundle-preference-convexity/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
