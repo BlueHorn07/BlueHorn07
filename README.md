@@ -78,7 +78,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Numerial Integration](https://bluehorn07.github.io/2025/05/04/numerical-integration/)
+- [Numerical Integration](https://bluehorn07.github.io/2025/05/04/numerical-integration/)
 - [Numerical Differentiation](https://bluehorn07.github.io/2025/04/28/numerical-differentiation/)
 - [Interpolation Differentiation](https://bluehorn07.github.io/2025/04/27/interpolation-differentiation/)
 - [Budget Sets &amp;amp; Demand Functions &amp;amp; Consumer’s Problem](https://bluehorn07.github.io/2025/04/22/consumer-problem/)
