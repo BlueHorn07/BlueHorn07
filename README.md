@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [점화식의 일반항 구하기](https://bluehorn07.github.io/2025/05/14/general-term-of-recurrence-relation/)
 - [Euler Method](https://bluehorn07.github.io/2025/05/12/euler-method/)
 - [One-step Method](https://bluehorn07.github.io/2025/05/12/one-step-method/)
 - [Gaussian Quadrature](https://bluehorn07.github.io/2025/05/11/gaussian-quadrature/)
 - [Numerical Integration](https://bluehorn07.github.io/2025/05/04/numerical-integration/)
-- [Numerical Differentiation](https://bluehorn07.github.io/2025/04/28/numerical-differentiation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
