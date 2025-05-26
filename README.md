@@ -79,10 +79,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [점화식의 일반항 구하기](https://bluehorn07.github.io/2025/05/14/general-term-of-recurrence-relation/)
+- [Runge-Kutta Method](https://bluehorn07.github.io/2025/05/13/runge-kutta-method/)
 - [Cost Function](https://bluehorn07.github.io/2025/05/13/cost-function/)
 - [Euler Method](https://bluehorn07.github.io/2025/05/12/euler-method/)
 - [One-step Method](https://bluehorn07.github.io/2025/05/12/one-step-method/)
-- [Taylor Method](https://bluehorn07.github.io/2025/05/12/taylor-method/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
