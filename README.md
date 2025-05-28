@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Continuous Least-squared Method](https://bluehorn07.github.io/2025/05/18/continuous-least-square-method/)
+- [Least-squared Method](https://bluehorn07.github.io/2025/05/17/least-square-method/)
 - [점화식의 일반항 구하기](https://bluehorn07.github.io/2025/05/14/general-term-of-recurrence-relation/)
+- [Adams-Bashforth Method](https://bluehorn07.github.io/2025/05/14/adams-bashforth-method/)
 - [Runge-Kutta Method](https://bluehorn07.github.io/2025/05/13/runge-kutta-method/)
-- [Cost Function](https://bluehorn07.github.io/2025/05/13/cost-function/)
-- [Euler Method](https://bluehorn07.github.io/2025/05/12/euler-method/)
-- [One-step Method](https://bluehorn07.github.io/2025/05/12/one-step-method/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
