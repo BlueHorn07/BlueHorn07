@@ -81,8 +81,8 @@
 - [Confidence Interval, and Parameter](https://bluehorn07.github.io/2025/05/28/confidence-interval-and-parameter/)
 - [Continuous Least-squared Method](https://bluehorn07.github.io/2025/05/18/continuous-least-square-method/)
 - [Least-squared Method](https://bluehorn07.github.io/2025/05/17/least-square-method/)
+- [Predictor-Corrector Method](https://bluehorn07.github.io/2025/05/15/predictor-corrector-method/)
 - [점화식의 일반항 구하기](https://bluehorn07.github.io/2025/05/14/general-term-of-recurrence-relation/)
-- [Adams-Bashforth Method](https://bluehorn07.github.io/2025/05/14/adams-bashforth-method/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
