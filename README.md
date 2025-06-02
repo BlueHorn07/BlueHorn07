@@ -80,9 +80,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Confidence Interval, and Parameter](https://bluehorn07.github.io/2025/05/28/confidence-interval-and-parameter/)
 - [Continuous Least-squared Method](https://bluehorn07.github.io/2025/05/18/continuous-least-square-method/)
+- [Fundamental Theorem of Welfare Economics](https://bluehorn07.github.io/2025/05/17/fundamental-theorem-of-welfare-economics/)
 - [Least-squared Method](https://bluehorn07.github.io/2025/05/17/least-square-method/)
-- [Pareto Stability](https://bluehorn07.github.io/2025/05/15/equilibrium-and-pareto-stability/)
-- [Predictor-Corrector Method](https://bluehorn07.github.io/2025/05/15/predictor-corrector-method/)
+- [Competitive Equilibrium](https://bluehorn07.github.io/2025/05/15/competitive-equilibrium/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
