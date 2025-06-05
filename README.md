@@ -79,10 +79,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Confidence Interval, and Parameter](https://bluehorn07.github.io/2025/05/28/confidence-interval-and-parameter/)
+- [Exchange Economy with Uncertainty](https://bluehorn07.github.io/2025/05/20/exchange-economy-with-uncertainty/)
 - [Competitive Equilibrium of Indivisible Exchange Economy](https://bluehorn07.github.io/2025/05/19/competitive-equilibrium-of-indivisible-exchange-economy/)
 - [Indivisible Goods and Money](https://bluehorn07.github.io/2025/05/18/indivisible-goods-and-money/)
 - [Continuous Least-squared Method](https://bluehorn07.github.io/2025/05/18/continuous-least-square-method/)
-- [Fundamental Theorem of Welfare Economics](https://bluehorn07.github.io/2025/05/17/fundamental-theorem-of-welfare-economics/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
