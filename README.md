@@ -80,9 +80,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [ME: Exercise Problems](https://bluehorn07.github.io/2025/06/01/micro-economics-exercise/)
 - [Confidence Interval, and Parameter](https://bluehorn07.github.io/2025/05/28/confidence-interval-and-parameter/)
+- [Economy with Capital and Labor](https://bluehorn07.github.io/2025/05/22/economy-with-capital-and-labor/)
 - [Production Economy](https://bluehorn07.github.io/2025/05/21/production-economy/)
 - [Exchange Economy with Uncertainty](https://bluehorn07.github.io/2025/05/20/exchange-economy-with-uncertainty/)
-- [Variation of Economy with Uncertainty](https://bluehorn07.github.io/2025/05/20/variation-of-economy-with-uncertainty/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
