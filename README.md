@@ -78,11 +78,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Filesystem Hierarchy Standard](https://bluehorn07.github.io/2025/06/05/filesystem-hierarchy-standard/)
+- [apt install &amp;amp; apt upgrade](https://bluehorn07.github.io/2025/06/02/apt-install-and-upgrade/)
 - [ME: Exercise Problems](https://bluehorn07.github.io/2025/06/01/micro-economics-exercise/)
 - [Confidence Interval, and Parameter](https://bluehorn07.github.io/2025/05/28/confidence-interval-and-parameter/)
 - [Economy with Capital and Labor](https://bluehorn07.github.io/2025/05/22/economy-with-capital-and-labor/)
-- [Production Economy](https://bluehorn07.github.io/2025/05/21/production-economy/)
-- [Exchange Economy with Uncertainty](https://bluehorn07.github.io/2025/05/20/exchange-economy-with-uncertainty/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
