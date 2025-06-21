@@ -6,7 +6,7 @@
 - 💂 Alternative military service as skilled industry personnel @[Bagelcode](https://bagelcode.com) (2021.11 ~ 2024.09)
 - ✨ Interested in Kubernetes, Spark, Kafka and their eco-systems.
 - 💖 I love to play Jazz🎺 and play "[Hearts Of Iron IV](https://www.heartsofiron4.com/en)"🎮
-- 🥅 Current Goal: PASS the Math Graduation Test (See more 👉 [2025 Goals](https://bluehorn07.github.io/2025/01/01/2025-goal.html))
+- 🥅 Current Goal: PASS CCDAK Exam (See more 👉 [2025 Goals](https://bluehorn07.github.io/2025/01/01/2025-goal.html))
 - 🎮 Nowadays, I'm playing Square Enix's Old games (DQ1/2/3, FF1)
 
 <br />
