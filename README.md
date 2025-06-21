@@ -1,10 +1,8 @@
 ### Hi there, I'm Seokyun Ha - aka [BlueHorn07](website) 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlueHorn07%2FBlueHorn07&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-- 👨‍🎓 POSTECH CSED & MATH Undergraduate Student
+- 👨‍🎓 POSTECH CSED & MATH Bachelor's Degree
 - 👨‍💻 Chief Developer @[PoApper](https://poapper.club/)
-- 👨‍🚀 Data Engineer @[Bagelcode](https://bagelcode.com)
+- 👨‍🚀 Data Engineer @[Toss](https://toss.im/) (ex-[Bagelcode](https://bagelcode.com))
 - 💂 Alternative military service as skilled industry personnel @[Bagelcode](https://bagelcode.com) (2021.11 ~ 2024.09)
 - ✨ Interested in Kubernetes, Spark, Kafka and their eco-systems.
 - 💖 I love to play Jazz🎺 and play "[Hearts Of Iron IV](https://www.heartsofiron4.com/en)"🎮
