@@ -76,11 +76,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java, I want you!](https://bluehorn07.github.io/2025/06/25/java-i-want-you/)
+- [CCDAK 시험 준비](https://bluehorn07.github.io/2025/06/23/CCDAK-prepare/)
 - [Why Replace Zookeeper with KRaft](https://bluehorn07.github.io/2025/06/22/why-replace-zookeeper-with-kraft/)
 - [Filesystem Hierarchy Standard](https://bluehorn07.github.io/2025/06/05/filesystem-hierarchy-standard/)
 - [apt install &amp;amp; apt upgrade](https://bluehorn07.github.io/2025/06/02/apt-install-and-upgrade/)
-- [ME: Exercise Problems](https://bluehorn07.github.io/2025/06/01/micro-economics-exercise/)
-- [Confidence Interval, and Parameter](https://bluehorn07.github.io/2025/05/28/confidence-interval-and-parameter/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
