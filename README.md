@@ -76,11 +76,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello, RocksDB!](https://bluehorn07.github.io/2025/07/01/hello-rocksdb/)
 - [Kafka Internals](https://bluehorn07.github.io/2025/06/29/kafka-internals/)
 - [Java, I want you!](https://bluehorn07.github.io/2025/06/25/java-i-want-you/)
 - [CCDAK 시험 준비](https://bluehorn07.github.io/2025/06/23/CCDAK-prepare/)
 - [Why Replace Zookeeper with KRaft](https://bluehorn07.github.io/2025/06/22/why-replace-zookeeper-with-kraft/)
-- [Filesystem Hierarchy Standard](https://bluehorn07.github.io/2025/06/05/filesystem-hierarchy-standard/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
