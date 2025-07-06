@@ -76,11 +76,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello, OpenSSL!](https://bluehorn07.github.io/2025/07/06/hello-openssl/)
+- [Hello, Java Keytool](https://bluehorn07.github.io/2025/07/07/hello-java-keytool/)
+- [FastAPI with Self-signed SSL Certificate](https://bluehorn07.github.io/2025/07/06/fastapi-with-self-signed-ssl/)
+- [Hello, OpenSSL!](https://bluehorn07.github.io/2025/07/05/hello-openssl/)
 - [Running Kafka in Production](https://bluehorn07.github.io/2025/07/02/running-kafka-in-production/)
 - [Hello, RocksDB!](https://bluehorn07.github.io/2025/07/01/hello-rocksdb/)
-- [Kafka Internals](https://bluehorn07.github.io/2025/06/29/kafka-internals/)
-- [Java, I want you!](https://bluehorn07.github.io/2025/06/25/java-i-want-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
