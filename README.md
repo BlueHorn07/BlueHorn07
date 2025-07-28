@@ -76,11 +76,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [수학과 졸업시험을 마치고](https://bluehorn07.github.io/2025/07/28/math-graduation-exam-review/)
+- [CCDAK 시험 후기 🌟](https://bluehorn07.github.io/2025/07/26/CCDAK-Exam-review/)
 - [Hello, Java Keytool](https://bluehorn07.github.io/2025/07/07/hello-java-keytool/)
 - [FastAPI with Self-signed SSL Certificate](https://bluehorn07.github.io/2025/07/06/fastapi-with-self-signed-ssl/)
 - [Hello, OpenSSL!](https://bluehorn07.github.io/2025/07/05/hello-openssl/)
-- [Running Kafka in Production](https://bluehorn07.github.io/2025/07/02/running-kafka-in-production/)
-- [Hello, RocksDB!](https://bluehorn07.github.io/2025/07/01/hello-rocksdb/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
