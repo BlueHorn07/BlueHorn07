@@ -76,11 +76,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Define Custome Kafka Source Connector](https://bluehorn07.github.io/2025/10/07/define-custom-kafka-connector/)
 - [Define Custome Kafka Connect Transform](https://bluehorn07.github.io/2025/10/06/define-custom-kafka-connect-transform/)
 - [Deploy Debeizum Mysql Connector](https://bluehorn07.github.io/2025/10/05/deploy-debezium-mysql-connector/)
 - [Journal File System](https://bluehorn07.github.io/2025/09/26/journal-file-system/)
 - [Starrocks Memo](https://bluehorn07.github.io/2025/09/08/starrocks-memo/)
-- [수학과 졸업시험을 마치고](https://bluehorn07.github.io/2025/07/28/math-graduation-exam-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
