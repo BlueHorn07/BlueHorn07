@@ -105,4 +105,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hsy_bluehorn07/)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199080882137/)
 
+<br/>
+
+Both [@seokyunh-ha-toss](https://github.com/seokyun-ha-toss) and [@Seokyun-Ha](https://github.com/Seokyun-Ha) is me :)
+
 </div>
+
+
