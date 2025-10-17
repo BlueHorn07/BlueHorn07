@@ -64,6 +64,7 @@
 
 ### Document Contributing
 
+- [astronomer/astronomer-cosmos: docs: correct the default value of cache_dir](https://github.com/astronomer/astronomer-cosmos/pull/2027)
 - [istio/istio.io: Egress Gateway, istioctl command wrap with dquotes](https://github.com/istio/istio.io/pull/14632)
 - [delta-io/delta-docs: Add missed continuation](https://github.com/delta-io/delta-docs/pull/57)
 
