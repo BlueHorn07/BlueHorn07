@@ -54,6 +54,7 @@
 
 ### OpenSource Contributing
 
+- [StarRocks/starrocks-connector-for-kafka: fix(validation): avoid 500 error when required config is missing during validation](https://github.com/StarRocks/starrocks-connector-for-kafka/pull/49)
 - [deliveryhero/helm-charts: [stable/aws-s3-proxy] Sync labels btw pod and deployment](https://github.com/deliveryhero/helm-charts/pull/588)
 - [databricks/ucx: [FEATURE]: legacy Deny ACL is not handled](https://github.com/databrickslabs/ucx/issues/1803)
 - [apache/airflow: Flower K8s Probe config](https://github.com/apache/airflow/pull/37528)
