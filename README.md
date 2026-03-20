@@ -75,6 +75,7 @@
 ### Issue Reporting
 
 - [grafana/grafana-image-renderer: v3.11.4 : it has been failing to build images with an HTTP 500 error](https://github.com/grafana/grafana-image-renderer/issues/565#issuecomment-2454031885)
+- [astronomer/astronomer-cosmos: [Bug] DbtResourceType.EXPOSURE is not rendered since v1.12.0](https://github.com/astronomer/astronomer-cosmos/issues/2393)
 
 ---
 
