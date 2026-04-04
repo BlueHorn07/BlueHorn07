@@ -7,7 +7,7 @@
 - ✨ Interested in Kubernetes, Spark, Kafka and their eco-systems.
 - 💖 I love to play Jazz🎺 and play "[Hearts Of Iron IV](https://www.heartsofiron4.com/en)"🎮
 - 🥅 Current Goal: PASS Flink Certificate (See more 👉 [2026 Goals](https://bluehorn07.github.io/2026/01/01/2026-goal.html))
-- 🎮 Nowadays, I'm playing Square Enix's Old games (DQ1/2/3, FF1)
+- 🎮 Nowadays, play *Romance of the Three Kingdoms VIII: Power Up Kit*
 
 <br />
 
@@ -56,6 +56,7 @@
 
 ### OpenSource Contributing
 
+- [Starrocks/starrocks: [Enhancement] Skip predicate column vacuuming when TTL is negative or usage is empty](https://github.com/StarRocks/starrocks/pull/71290)
 - [apache/iceberg: Kafka Connect: Support VARIANT when record convert](https://github.com/apache/iceberg/pull/15283)
 - [StarRocks/starrocks-connector-for-kafka: fix(validation): avoid 500 error when required config is missing during validation](https://github.com/StarRocks/starrocks-connector-for-kafka/pull/49)
 - [deliveryhero/helm-charts: [stable/aws-s3-proxy] Sync labels btw pod and deployment](https://github.com/deliveryhero/helm-charts/pull/588)
