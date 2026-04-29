@@ -56,9 +56,13 @@
 
 ### OpenSource Contributing
 
-- [Starrocks/starrocks: [Enhancement] Skip predicate column vacuuming when TTL is negative or usage is empty](https://github.com/StarRocks/starrocks/pull/71290)
+- StarRocks
+  - [[Bug][shared-data] Orphan QueryContext and FragmentContext remain on CN after SELECT query completes normally, causing CN hang](https://github.com/StarRocks/starrocks/issues/71939)
+  - [[Enhancement] Randomize shared-data backup compute node selection to spread load](https://github.com/StarRocks/starrocks/pull/71948)
+  - [[Enhancement] Skip colocate cleanup warn when no invalid tables](https://github.com/StarRocks/starrocks/pull/72291)
+  - [[Enhancement] Skip predicate column vacuuming when TTL is negative or usage is empty](https://github.com/StarRocks/starrocks/pull/71290)
+  - [fix(validation): avoid 500 error when required config is missing during validation](https://github.com/StarRocks/starrocks-connector-for-kafka/pull/49)
 - [apache/iceberg: Kafka Connect: Support VARIANT when record convert](https://github.com/apache/iceberg/pull/15283)
-- [StarRocks/starrocks-connector-for-kafka: fix(validation): avoid 500 error when required config is missing during validation](https://github.com/StarRocks/starrocks-connector-for-kafka/pull/49)
 - [deliveryhero/helm-charts: [stable/aws-s3-proxy] Sync labels btw pod and deployment](https://github.com/deliveryhero/helm-charts/pull/588)
 - [databricks/ucx: [FEATURE]: legacy Deny ACL is not handled](https://github.com/databrickslabs/ucx/issues/1803)
 - [apache/airflow: Flower K8s Probe config](https://github.com/apache/airflow/pull/37528)
