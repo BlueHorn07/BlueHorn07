@@ -1,12 +1,12 @@
 ### Hi there, I'm Seokyun Ha - aka [BlueHorn07](website) 👋
 
-- 👨‍🎓 POSTECH CSED & MATH Bachelor's Degree
-- 👨‍💻 Chief Developer @[PoApper](https://poapper.club/)
 - 👨‍🚀 Data Engineer @[Toss](https://toss.im/) (ex-[Bagelcode](https://bagelcode.com))
+- 👨‍🎓 POSTECH CSED & MATH Bachelor's Degree
+- 👨‍💻 Chief Developer ex-@[PoApper](https://poapper.club/)
 - 💂 Alternative military service as skilled industry personnel @[Bagelcode](https://bagelcode.com) (2021.11 ~ 2024.09)
 - ✨ Interested in Kubernetes, Spark, Kafka and their eco-systems.
 - 💖 I love to play Jazz🎺 and play "[Hearts Of Iron IV](https://www.heartsofiron4.com/en)"🎮
-- 🥅 Current Goal: PASS Flink Certificate (See more 👉 [2026 Goals](https://bluehorn07.github.io/2026/01/01/2026-goal.html))
+- 🥅 Current Goal: PASS LFCS (See more 👉 [2026 Goals](https://bluehorn07.github.io/2026/01/01/2026-goal.html))
 - 🎮 Nowadays, play *Romance of the Three Kingdoms VIII: Power Up Kit*
 
 <br />
