@@ -87,11 +87,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BST, B-Tree, B+Tree 구현](https://bluehorn07.github.io/2026/06/14/b-tree-implementation/)
 - [Parquet Page 구조](https://bluehorn07.github.io/2026/03/09/parquet-page/)
 - [Parquet Variant에 대해 살펴보기](https://bluehorn07.github.io/2026/03/09/parquet-variant/)
 - [Parquet 포맷의 구조 다시보기](https://bluehorn07.github.io/2026/03/08/parquet-structure/)
 - [2026년 목표](https://bluehorn07.github.io/2026/01/01/2026-goal/)
-- [Define Custom Kafka Source Connector](https://bluehorn07.github.io/2025/10/07/define-custom-kafka-connector/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://bluehorn07.github.io/)
